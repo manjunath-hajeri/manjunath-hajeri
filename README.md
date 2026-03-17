@@ -20,7 +20,8 @@ Currently based in Belgaum, Karnataka, India.
 |---|---|---|
 | [Procurement Management System — Backend](https://github.com/manjunath-hajeri/procurement-management-service) | Spring Boot + PostgreSQL + JWT | [View Repo](https://github.com/manjunath-hajeri/procurement-management-service) |
 | [Procurement Management System — Frontend](https://github.com/manjunath-hajeri/procurement-management-ui) | Angular 21 + Angular Material + TypeScript | [View Repo](https://github.com/manjunath-hajeri/procurement-management-ui) |
-| Farm Field Management SaaS | Spring Boot + Angular + MySQL | Coming Soon |
+| [Farm Field Management SaaS — Backend](https://github.com/manjunath-hajeri/farm-field-management-service) | Spring Boot + MySQL + JWT | [View Repo](https://github.com/manjunath-hajeri/farm-field-management-service) |
+| [Farm Field Management SaaS — Frontend](https://github.com/manjunath-hajeri/farm-field-management-ui) | Angular 21 + Angular Material + TypeScript | [View Repo](https://github.com/manjunath-hajeri/farm-field-management-ui) |
 | AI Task Assistant | Spring Boot + Angular + OpenAI | Coming Soon |
 ---
 ## 📊 Experience Highlights
